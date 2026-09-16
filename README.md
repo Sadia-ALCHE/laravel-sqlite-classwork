@@ -1,5 +1,4 @@
 # Laravel + SQLite Classwork
-
 ## Student Management System
 
 ### Duration
